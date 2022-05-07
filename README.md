@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedora Front-end
 - 🌱 Estudando React
-- 📚 Cursando técnico em sistemas para internet (2° semestre).
+- 📚 Cursando técnico em sistemas para internet ( 2° semestre ).
 
 <div align="center">
   <a href="https://github.com/SamantaSouza357">
