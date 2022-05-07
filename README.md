@@ -2,6 +2,7 @@
 
 - 🔭 Desenvolvedora Front-end
 - 🌱 Estudando React
+- 📚 Cursando técnico em sistemas para internet (2° semestre).
 
 <div align="center">
   <a href="https://github.com/SamantaSouza357">
@@ -16,7 +17,6 @@
   <img align="center" alt="Samanta-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Samanta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
-
 </div>
   
    ##
