@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Samanta Souza
 
 - 🔭 Desenvolvedora Front-end
-- 🌱 Estudando React
+- 🌱 Estudando PHP e React
 - 📚 Cursando técnico em sistemas para internet ( 2° semestre ).
 
 <div align="center">
