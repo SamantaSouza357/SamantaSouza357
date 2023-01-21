@@ -2,7 +2,8 @@
 
 - 🔭 Desenvolvedora Front-end
 - 🌱 Estudando PHP e React
-- 📚 técnico em sistemas para internet - concluído
+- 👩‍💻 técnica em sistemas para internet 
+- 📚 Ciência da Computação - Cursando
 
 <div align="center">
     <a href="https://github.com/SamantaSouza357">
