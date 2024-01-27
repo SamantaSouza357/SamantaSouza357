@@ -18,6 +18,7 @@
     <img alt="React-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img alt="PHP" src="https://img.shields.io/badge/Php-4682B4?style=for-the-badge&logo=php&logoColor=61DAFB" />
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
+    <img alt="Python" src="https://img.shields.io/badge/Python-563D7C?style=for-the-badge&logo=python&logoColor=white" />  
 </div>
   
    ##
