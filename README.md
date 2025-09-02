@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Samanta Souza
 
-- 🔭 Desenvolvedora Back-end
-- 🌱 Estudando PHP, React e Python
+- 🔭 Analista de Dados e Devops
+- 🌱 Estudando AWS, Azure Devos, Docker e Python
 - 👩‍💻 Técnica em Sistemas para Internet 
 - 📚 Ciência da Computação - Cursando
 
